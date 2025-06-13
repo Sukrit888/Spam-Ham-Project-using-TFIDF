@@ -13,7 +13,6 @@ This machine learning project classifies SMS messages as **Spam** or **Ham (Not 
 - [Project Workflow](#project-workflow)
 - [Model Performance](#model-performance)
 - [How to Run](#how-to-run)
-- [Future Enhancements](#future-enhancements)
 - [License](#license)
 
 ---
