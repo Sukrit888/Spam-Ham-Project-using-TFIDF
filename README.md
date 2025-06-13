@@ -89,8 +89,7 @@ The goal of this project is to automate spam detection in SMS messages using nat
 
 You can run this project directly on **Google Colab**:
 
-📎 **[Open in Google Colab](https://colab.research.google.com/drive/your-notebook-id-here)**  
-*(Replace this link with your actual notebook link after uploading to Google Drive)*
+📎 **[Open in Google Colab](https://colab.research.google.com/drive/1cUKxw3qO0foOzoRtl1C87YOcYH13yMsu?usp=sharing)**  
 
 ### Steps:
 1. Click on the Colab link.
@@ -99,22 +98,8 @@ You can run this project directly on **Google Colab**:
 
 ---
 
-## 🚀 Future Enhancements
-
-- Deploy the model using **Streamlit** for real-time predictions
-- Use **LSTM** or **BERT** models for deeper NLP understanding
-- Add web scraping and email integration for real-world testing
-
 ---
 
 ## 🪪 License
 
 This project is licensed under the **MIT License**. Feel free to use and modify it.
-
----
-
-## 📬 Contact
-
-Created by **Sukrit Kashyap Goswami**  
-📧 Email: `sukrit.email@example.com`  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
